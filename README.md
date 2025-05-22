@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Shivam Kumar !</h1>
+<h1 align="center">👋Hi there, I'm Shivam Kumar !</h1>
 <h3 align="center">Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <a href="https://your-portfolio.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
+  <a href=https://www.linkedin.com/in/shivam1kumar>LinkedIn</a> •
   <a href="https://twitter.com/yourhandle">Twitter</a> •
-  <a href="mailto:shivamsofteng@gmail.com">Email</a>
+  <a href="mailto:shivamsofteng@gmail.com">✉️Email</a>
 </p>
 
 ---
@@ -18,7 +18,7 @@ I believe in the power of open source and actively contribute to projects that e
 
 ---
 
-### **Current Focus**
+### **🔍🔎Current Focus**
 
 - Developing Job-Porta — A full-featured Job Portal built to connect job seekers with employers, enabling seamless job postings, applications, and candidate management in a responsive and user-friendly interface. built with MERN stack
 - Learning and experimenting with system design and advanced backend architecture
@@ -51,13 +51,13 @@ I believe in the power of open source and actively contribute to projects that e
 
 
 
-### **Let's Connect!**
+### **🤝Let's Connect!**
 
 I'm always open to collaborate on interesting projects, contribute to open source, or just chat about tech and ideas. Feel free to reach out!
 
 - **Email:** shivamsofteng@gmail.com.com  
 - **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/shivam1kumar)  
 - **Twitter:** [twitter.com/yourhandle](https://twitter.com/yourhandle)
 
 ---
