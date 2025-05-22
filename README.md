@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://your-portfolio.com">Portfolio</a> •
   <a href=https://www.linkedin.com/in/shivam1kumar>LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a> •
-  <a href="mailto:shivamsofteng@gmail.com">✉️Email</a>
+  <a href="https://x.com/ShivamKuma01">Twitter</a> •
+  <a href="mailto:shivamkumar.swe@gmail.com">Email</a>
 </p>
 
 ---
@@ -55,10 +55,10 @@ I believe in the power of open source and actively contribute to projects that e
 
 I'm always open to collaborate on interesting projects, contribute to open source, or just chat about tech and ideas. Feel free to reach out!
 
-- **Email:** shivamsofteng@gmail.com.com  
+- **Email:** shivamkumar.swe@gmail.com.com  
 - **Portfolio:** [https://your-portfolio.com](https://your-portfolio.com)  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/shivam1kumar)  
-- **Twitter:** [twitter.com/yourhandle](https://twitter.com/yourhandle)
+- **Twitter:** [twitter.com/yourhandle](https://x.com/ShivamKuma01)
 
 ---
 
